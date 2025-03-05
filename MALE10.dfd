@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+7
+E,V,CAN
+7
+0
+1
+15
+E>=18 AND E<=25
+6
+1
+1
+T
+5
+V*CAN
+4
+1
+41
+'SEÑOR USUARIO SI TIENE DESCUENSTO','DES'
+13
+6
+3
+1
+T
+5
+V*CAN
+1
+D
+6
+T*0.05
+1
+F
+3
+T-D
+4
+1
+20
+'NO TIENE DESCUENTO'
+13
+1
